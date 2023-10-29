@@ -14,7 +14,7 @@
 - Smoke Testing
 - Unit Testing
 - Integration Testing
-- 
+
 ### Non Functional Testing
 - Load Testing
 - Performance Testing
